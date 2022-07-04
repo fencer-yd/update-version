@@ -1,0 +1,18 @@
+{
+  "name": "update-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update-version",
+  "bin": {
+    "tec": "update-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ git+https://github.com/fencer-yd/ts-es-creator-cle.git"
+  },
+  "author": {
+    "name": "fencer-yd",
+    "email": "982039620@qq.com"
+  },
+  "license": "MIT"
+}
