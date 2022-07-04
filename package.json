@@ -1,5 +1,5 @@
 {
-  "name": "update-version",
+  "name": "@fencer/update-version",
   "version": "1.0.0",
   "description": "",
   "main": "update-version",
